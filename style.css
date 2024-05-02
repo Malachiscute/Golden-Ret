@@ -1,17 +1,19 @@
 h1 {
-  color:red;
+  color:black;
   background-color;
   text-align: center;
    background: linear-gradient(to bottom, #33ccff 45%, #ffff99 94%);
+  font-family: "Times New Roman", Times, serif;
 
 }
 
 
 p {
-  color:red;
+  color:black;
   background-color;
   text-align: center;
   background: linear-gradient(to bottom, #33ccff 45%, #ffff99 94%);
+  font-family: "Times New Roman", Times, serif;
 
 }
 
