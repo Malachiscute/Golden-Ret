@@ -2,7 +2,7 @@ h1 {
   color:black;
   background-color;
   text-align: center;
-   background: linear-gradient(to bottom, #33ccff 45%, #ffff99 94%);
+   background: linear-gradient(to bottom, #000099 0%, #000099 100%);
   font-family: "Times New Roman", Times, serif;
 
 }
@@ -12,12 +12,12 @@ p {
   color:black;
   background-color;
   text-align: center;
-  background: linear-gradient(to bottom, #33ccff 45%, #ffff99 94%);
+  background: linear-gradient(to bottom, #000099 0%, #000099 100%);
   font-family: "Times New Roman", Times, serif;
 
 }
 
 
 body {
-  background: linear-gradient(to bottom, #33ccff 45%, #ffff99 94%);
+  background: linear-gradient(to bottom, #000099 0%, #000099 100%);
 }
